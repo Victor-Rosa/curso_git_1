@@ -1,0 +1,7 @@
+testando git show
+Adicionando nova linha 
+teste 
+detalle
+diff
+diff 
+de arquivo
