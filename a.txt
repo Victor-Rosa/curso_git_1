@@ -1,1 +1,23 @@
+<<<<<<< HEAD
 mudando o texto aloha 
+=======
+<<<<<<< HEAD
+aloha repositório
+testando se
+
+as repositório
+
+se
+
+=======
+testando repositório
+uma 
+atualização 
+de Arquivo  de
+aloha repositório
+
+aa repositório
+
+enviando a funcionalidade b 
+>>>>>>> origin/funcionalidade_a
+>>>>>>> c9978d0224508075798b8e88e3938a4224b394bf
